@@ -18,7 +18,7 @@ Installation :
 7 - react-native link</br>
 8 - npm install --save firebase</br>
 9 - ignite attach</br>
-10 - npm install
+10 - npm install</br>
 11 - react-native run-ios or react-native run-android
 
 <br><br><br>
